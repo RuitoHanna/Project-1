@@ -1,0 +1,24 @@
+body {
+    background-image: url("http://www.solidbackgrounds.com/images/950x350/950x350-light-blue-solid-color-background.jpg");
+}
+
+h1 {
+	font-family: WBXKomik Regular;
+}
+
+.heading1 {
+	color: white;
+	font-family: Laffayette Comic Pro Regular;
+}
+
+
+.heading2 {
+	background-color: blue;
+	color: white;
+	font-family: WBXKomik Regular;
+	font-size: smaller
+
+}
+h3 {
+font-style: italic;
+}
